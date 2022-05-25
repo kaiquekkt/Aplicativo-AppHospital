@@ -1,5 +1,8 @@
 # Aplicativo Apphospital
 
+O objetivo do aplicativo é dar suporte no pós venda do serviço: organização, contabilidade, realizar feedbacks dos materiais solicitados e solicitar novamente os pedidos.
+
+
 # Telas:
 
 ![telas](https://user-images.githubusercontent.com/101189877/170154967-98d41120-a532-4d38-afc0-cbfaa7c1353a.jpg)
